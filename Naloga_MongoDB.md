@@ -32,7 +32,7 @@ Po uspešnem uvozu podatkov je potrebno pripraviti povpraševanja s pomočjo sin
 6. Izpišite vse kombinacije števil točk, ki so bile podeljene namestitvam, in jih sortirajte po številu namestitev, ki so ta števila točk dobile.
 7. Izpišite seznam vseh namestitev (lodging), ki so dobile vsaj 3 kritike, pri čemer je večina dobljenih ocen (polovica ali več vseh ocen namestitve) višja od 6.
 8. Izpišite podatke o namestitvi, ki ponuja najvišjo povprečno plačo svojim zaposlenim. V rezultatu izpišite tudi znesek povprečne plače.
-9. Izpišite podatke o top 5 delavcih, ki so najdlje časa zaposleni v namestitvah, sortirano padajoče po času zaposlitve.
+9. Izpišite podatke o top 5 delavcih, ki so najdlje časa zaposleni v aktivnih namestitvah, sortirano padajoče po času zaposlitve.
 10. Izpišite povprečno plačo zaposlenih za namestitev, ki ima največjo povprečno oceno. Rezultat sortirajte naraščajoče po povprečni plači.
 
 
